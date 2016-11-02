@@ -1,0 +1,144 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://awbl2605.github.io/test2" resolutions="1x" timestamp="1478097368568">
+  <folder name="css">
+    <file name="site_global.css" crc="4181788566"/>
+    <file name="index.css" crc="335920532" ref="index"/>
+    <file name="iefonts_index.css" crc="329718779" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="fotoflexer_logo.png" crc="38466742" seo="true" mt="1474755631000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss:tablet>index:index"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss:tablet>index:index"/>
+    <file name="museconfig.js" crc="4242129463" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss:tablet>index:index"/>
+    <file name="pie.js" crc="3831537696" ref="phone>index:phone>tjänster:phone>kontakt:phone>om-oss:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss:tablet>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="phone>index:index"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss:tablet>index:index"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>kontakt:tablet>index:index"/>
+    <file name="form_check.php" crc="121412709" ref="phone>kontakt"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>kontakt"/>
+    <file name="form_process.php" crc="444429785" ref="phone>kontakt"/>
+    <file name="form-u8866.php" crc="505292722" ref="phone>kontakt"/>
+    <file name="form-u5139.php" crc="337211160" ref="tablet>index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="tablet>index"/>
+    <file name="touchswipe.js" crc="474750357" ref="tablet>index"/>
+    <file name="form-u5297.php" crc="4294046014" ref="tablet>index"/>
+    <file name="form-u7616.php" crc="4251520617" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fotoflexer_logo.png" crc="99403443" seo="true" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss:index"/>
+    <file name="bkg_01.jpg" crc="4249309889" ref="phone>index:index"/>
+    <file name="u8826.png" crc="4258888680" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss"/>
+    <file name="u8826-r.png" crc="4013222646" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss"/>
+    <file name="u8824.png" crc="3791403625" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss"/>
+    <file name="u8824-r.png" crc="4039489012" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss"/>
+    <file name="u8828.png" crc="441804110" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss"/>
+    <file name="u8828-r.png" crc="4028078153" ref="phone>index:phone>tjänster:phone>kontakt:phone>läxhjälp:phone>projekt:phone>partners:phone>om-oss"/>
+    <file name="u8867-17.png" crc="213785157" ref="phone>kontakt"/>
+    <file name="u8867-17-r.png" crc="94650017" ref="phone>kontakt"/>
+    <file name="u8867-17-m.png" crc="94650017" ref="phone>kontakt"/>
+    <file name="u8867-17-fs.png" crc="213785157" ref="phone>kontakt"/>
+    <file name="images.jpg" crc="141144161" seo="true" ref="phone>läxhjälp:index"/>
+    <file name="silv.jpg" crc="177603058" seo="true" ref="phone>läxhjälp:index"/>
+    <file name="bronze.jpg" crc="4032344708" seo="true" ref="phone>läxhjälp:index"/>
+    <file name="johndoe.jpg" crc="426126780" ref="phone>om-oss:tablet>index"/>
+    <file name="janetdoe.jpg" crc="513560085" ref="phone>om-oss:tablet>index"/>
+    <file name="jamesdoe.jpg" crc="403037988" ref="phone>om-oss:tablet>index"/>
+    <file name="sunbanner.jpg" crc="250723096" ref="tablet>index"/>
+    <file name="u5162-21.png" crc="350620973" ref="tablet>index"/>
+    <file name="u5162-21-r.png" crc="350620973" ref="tablet>index"/>
+    <file name="u5162-21-m.png" crc="4254477002" ref="tablet>index"/>
+    <file name="u5162-21-fs.png" crc="350620973" ref="tablet>index"/>
+    <file name="branding.png" crc="4293309447" seo="true" ref="tablet>index"/>
+    <file name="design.png" crc="3991986915" seo="true" ref="tablet>index"/>
+    <file name="development.png" crc="3778459321" seo="true" ref="tablet>index"/>
+    <file name="responsive.png" crc="272208513" seo="true" ref="tablet>index"/>
+    <file name="u5208.png" crc="3868552272" ref="tablet>index"/>
+    <file name="u5208-r.png" crc="4205225893" ref="tablet>index"/>
+    <file name="u5210.png" crc="3801636521" ref="tablet>index"/>
+    <file name="u5210-r.png" crc="4037465374" ref="tablet>index"/>
+    <file name="u5214.png" crc="4194618748" ref="tablet>index"/>
+    <file name="u5214-r.png" crc="3776119437" ref="tablet>index"/>
+    <file name="u5212.png" crc="3775629473" ref="tablet>index"/>
+    <file name="u5212-r.png" crc="529804633" ref="tablet>index"/>
+    <file name="u5216.png" crc="3868552272" ref="tablet>index"/>
+    <file name="u5216-r.png" crc="4205225893" ref="tablet>index"/>
+    <file name="u5218.png" crc="3801636521" ref="tablet>index"/>
+    <file name="u5218-r.png" crc="4037465374" ref="tablet>index"/>
+    <file name="u5222.png" crc="4194618748" ref="tablet>index"/>
+    <file name="u5222-r.png" crc="3776119437" ref="tablet>index"/>
+    <file name="u5220.png" crc="3775629473" ref="tablet>index"/>
+    <file name="u5220-r.png" crc="529804633" ref="tablet>index"/>
+    <file name="75-.png" crc="505622096" seo="true" ref="tablet>index"/>
+    <file name="90-.png" crc="311746381" seo="true" ref="tablet>index"/>
+    <file name="image4.jpg" crc="102147611" ref="tablet>index"/>
+    <file name="image2.jpg" crc="160612590" ref="tablet>index"/>
+    <file name="image3.jpg" crc="3818170715" ref="tablet>index"/>
+    <file name="u5299-17.png" crc="93811582" ref="tablet>index"/>
+    <file name="u5299-17-r.png" crc="3921874148" ref="tablet>index"/>
+    <file name="u5299-17-m.png" crc="3921874148" ref="tablet>index"/>
+    <file name="u5299-17-fs.png" crc="93811582" ref="tablet>index"/>
+    <file name="u5282.png" crc="472725463" ref="tablet>index"/>
+    <file name="u5282-r.png" crc="100691835" ref="tablet>index"/>
+    <file name="u5284.png" crc="4116137787" ref="tablet>index"/>
+    <file name="u5284-r.png" crc="495191600" ref="tablet>index"/>
+    <file name="u5286.png" crc="367297876" ref="tablet>index"/>
+    <file name="u5286-r.png" crc="3945195985" ref="tablet>index"/>
+    <file name="u5288.png" crc="271025988" ref="tablet>index"/>
+    <file name="u5288-r.png" crc="341738175" ref="tablet>index"/>
+    <file name="u5290.png" crc="4094778609" ref="tablet>index"/>
+    <file name="u5290-r.png" crc="333823292" ref="tablet>index"/>
+    <file name="u5292.png" crc="4185411314" ref="tablet>index"/>
+    <file name="u5292-r.png" crc="3956849305" ref="tablet>index"/>
+    <file name="u5294.png" crc="4204396217" ref="tablet>index"/>
+    <file name="u5294-r.png" crc="240242128" ref="tablet>index"/>
+    <file name="screen shot 2016-10-08 at 213703.jpg" crc="264900106" seo="true" ref="index"/>
+    <file name="_dsc6624.jpg" crc="3996647995" seo="true" ref="index"/>
+    <file name="_dsc6655.jpg" crc="329827696" seo="true" ref="index"/>
+    <file name="_dsc6643.jpg" crc="4095214846" seo="true" ref="index"/>
+    <file name="u7623-17.png" crc="140974599" ref="index"/>
+    <file name="u7623-17-r.png" crc="326249159" ref="index"/>
+    <file name="u7623-17-m.png" crc="326249159" ref="index"/>
+    <file name="u7623-17-fs.png" crc="140974599" ref="index"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index"/>
+    <file name="u15517.png" crc="87603442" ref="index"/>
+    <file name="u15517-r.png" crc="202330890" ref="index"/>
+    <file name="u15515.png" crc="3961855683" ref="index"/>
+    <file name="u15515-r.png" crc="182972633" ref="index"/>
+    <file name="u15521.png" crc="4033977705" ref="index"/>
+    <file name="u15521-r.png" crc="3778001723" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="364272062" ref="tablet>index"/>
+      <file name="index.css" crc="3984819813" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="460148097" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4130361003" seo="true" mt="1475961975754" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="83728454" ref="phone>kontakt:phone>tjänster:phone>projekt:phone>läxhjälp:phone>partners:phone>om-oss:phone>index"/>
+      <file name="kontakt.css" crc="49422329" ref="phone>kontakt"/>
+      <file name="iefonts_kontakt.css" crc="367365756" ref="phone>kontakt"/>
+      <file name="tj_nster.css" crc="182126613" ref="phone>tjänster"/>
+      <file name="projekt.css" crc="475440214" ref="phone>projekt"/>
+      <file name="l_xhj_lp.css" crc="408947455" ref="phone>läxhjälp"/>
+      <file name="partners.css" crc="3825916039" ref="phone>partners"/>
+      <file name="om-oss.css" crc="3996979368" ref="phone>om-oss"/>
+      <file name="index.css" crc="4260270076" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4158633510" seo="true" mt="1478012212188" redirect="true"/>
+    <file name="tjänster.html" crc="3937243486" seo="true" mt="1478012040354" redirect="true"/>
+    <file name="kontakt.html" crc="2676173" seo="true" mt="1478012040354" redirect="true"/>
+    <file name="läxhjälp.html" crc="524721839" seo="true" mt="1478012040354" redirect="true"/>
+    <file name="projekt.html" crc="4258546982" seo="true" mt="1478012040354" redirect="true"/>
+    <file name="partners.html" crc="223098368" seo="true" mt="1478012040354" redirect="true"/>
+    <file name="om-oss.html" crc="4254515838" seo="true" mt="1478012040354" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="201129130" seo="true" mt="1478013049900" redirect="true"/>
+</manifest>
